@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HST on HST</title>
+    <link>/</link>
+    <description>Recent content in HST on HST</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0900</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SpO2測定</title>
+      <link>/post/spo2/</link>
+      <pubDate>Tue, 18 Dec 2018 16:31:51 +0900</pubDate>
+      
+      <guid>/post/spo2/</guid>
+      <description>&lt;p&gt;SpO2測定はセンサーおよびアンプ、計測アルゴリズムまでトータル設計が可能です。&lt;/p&gt;
+
+&lt;p&gt;センサーはリユーザブルは勿論、ディスポーザブルタイプも開発しています。
+精度については臨床評価機関でのIEC 60601-2-61:2011 の基準に適合した実績を持っています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>非観血血圧測定</title>
+      <link>/post/nibp/</link>
+      <pubDate>Tue, 18 Dec 2018 16:31:33 +0900</pubDate>
+      
+      <guid>/post/nibp/</guid>
+      <description>&lt;p&gt;非観血血圧測定は臨床評価機関でのISO 80601-2-30:2013 の基準に適合した実績を有しています。
+オシロメトリック法の以下の測定方式に対応可能です。&lt;/p&gt;
+
+&lt;p&gt;-Linea up&lt;br /&gt;
+-Linea down&lt;br /&gt;
+-Step up&lt;br /&gt;
+-Step down&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>心電図・不整脈解析</title>
+      <link>/post/ecg/</link>
+      <pubDate>Tue, 18 Dec 2018 16:29:38 +0900</pubDate>
+      
+      <guid>/post/ecg/</guid>
+      <description>&lt;p&gt;12誘導心電図解析は入力アンプから解析ソフトウェアまで対応できます。IEC 60601-2-25:2011 の基準委適合した心電図解析を実現しています。&lt;/p&gt;
+
+&lt;p&gt;不整脈解析は1ch ECG から各種不整脈を検出するアルゴリズムを開発しています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>医療電子機器</title>
+      <link>/publication/product/</link>
+      <pubDate>Tue, 18 Dec 2018 11:30:08 +0900</pubDate>
+      
+      <guid>/publication/product/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>事業戦略</title>
+      <link>/publication/business/</link>
+      <pubDate>Tue, 18 Dec 2018 11:19:24 +0900</pubDate>
+      
+      <guid>/publication/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pulse Oximeter</title>
+      <link>/project/pulse-oximeter/</link>
+      <pubDate>Tue, 18 Dec 2018 11:01:01 +0900</pubDate>
+      
+      <guid>/project/pulse-oximeter/</guid>
+      <description>&lt;p&gt;パルスオキシメーターは医療機関のみならず登山愛好者やスポーツ愛好者などにも広く普及しています。HSTはこうした一般人向けはもとより高度なケアを必要とする医療機関向けのパルスオキシメータの開発実績があります。&lt;/p&gt;
+
+&lt;p&gt;医療機関向け機器として薬機法の承認を受けるにはISO規格に則り臨床評価が必要となります。様々な人種や肌色の違う人間を対象に低酸素状態からの観血的な動脈血ガス検査との相関を取る必要があります。HSTはこの規格に適合していると海外の評価機関にて評価された製品を開発しました。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>血圧計</title>
+      <link>/project/nibp/</link>
+      <pubDate>Mon, 17 Dec 2018 16:59:21 +0900</pubDate>
+      
+      <guid>/project/nibp/</guid>
+      <description>&lt;p&gt;血圧計もSpO2以上に一般家庭に広く普及しています。腕に巻くカフの圧力変化を捉えて最高血圧や最低血圧を求めるオシロメトリック法の血圧計が殆どです。私たちは医療現場で使用する薬事法対応の血圧計の開発実績を持っています。&lt;/p&gt;
+
+&lt;p&gt;薬事申請に際し血圧計はISOの規格で臨床評価を行う必要があります。これは老若男女の高血圧から低血圧までの被試験者を対象に、プロフェッショナルの聴診との比較で誤差が一定の範囲内であることが求められます。私たちの製作した血圧計はこの臨床評価をクリアしました。測定方法も一般的なステップダウン方式の他にリニアダウンやリニアアップについても対応可能です。どうぞお問い合わせください。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>心電計</title>
+      <link>/project/ecg/</link>
+      <pubDate>Mon, 17 Dec 2018 16:58:48 +0900</pubDate>
+      
+      <guid>/project/ecg/</guid>
+      <description>&lt;p&gt;心電図は医用電子機器としては最もポピュラーな装置の一つです。多くのメーカー製品が使用されていますが、どれも記録器を内蔵した大型の装置です。私たちはもっと手軽で、往診時にも簡単に持ち運べるようスマートフォンサイズの心電図測定ユニットを開発しました。
+USBケーブルでWindow PCに接続すると12誘導心電図を測定します。測定結果はPQ間隔やQRS幅などの計測値と一緒に表示され、Windows プリンターでプリントできます。CEマークや薬事も取得しております。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page</title>
+      <link>/tutorial/example/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0900</pubDate>
+      
+      <guid>/tutorial/example/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
+      
+      <guid>/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example-slides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slides/example-slides/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Code block:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+
+&lt;p&gt;Block math:&lt;/p&gt;
+
+&lt;p&gt;$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
