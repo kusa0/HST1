@@ -9,7 +9,7 @@
 baseurl = "https://kusa0.github.io/HST1/"
 uglyurls = false
 canonifyurls = true
-# relativeurl = true
+relativeurl = true
 languageCode = "jp"
 publishDir = "docs"
 
