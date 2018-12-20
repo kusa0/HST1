@@ -6,11 +6,11 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://kusa0.github.io/HST1/"
-# uglyurls = false
- canonifyurls = true
- relativeurl = false
-
+baseurl = "https://hst.netlify.com/"
+uglyurls = false
+canonifyurls = true
+relativeurl = true
+languageCode = "jp"
 publishDir = "docs"
 
 # Title of your site
