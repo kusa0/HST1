@@ -24,7 +24,7 @@ projects = ["pulse-oximeter"]
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "青柳卓夫　パルスオキシメータの誕生とその理論"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
