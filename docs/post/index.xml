@@ -36,7 +36,7 @@
       <pubDate>Tue, 18 Dec 2018 16:29:38 +0900</pubDate>
       
       <guid>https://kusa0.github.io/HST1/post/ecg/</guid>
-      <description>12誘導心電図解析は入力アンプから解析ソフトウェアまで対応できます。IEC 60601-2-25:2011 の基準委適合した心電図解析を実現しています。 不整脈解析は1ch ECG</description>
+      <description>12誘導心電図解析は入力アンプから解析ソフトウェアまで対応できます。IEC 60601-2-25:2011 の基準に適合した心電図解析を実現しています。 不整脈解析は1ch ECG</description>
     </item>
     
   </channel>

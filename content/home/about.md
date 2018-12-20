@@ -18,17 +18,17 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "心電計"
-  institution = "台湾  "
+  institution = "台湾"
   year = 2016
 
 [[education.courses]]
   course = "非観血血圧計"
-  institution = "日本  "
+  institution = "日本"
   year = 2009
 
 [[education.courses]]
   course = "パルスオキシメータ"
-  institution = "日本  "
+  institution = "日本"
   year = 2008
  
 +++

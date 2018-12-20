@@ -42,7 +42,7 @@ flip_alt_rows = false
 
 [[filter]]
   name = "Domestic"
-  tag = "dome"
+  tag = "domestic"
 
 [[filter]]
   name = "International"

@@ -29,6 +29,6 @@ projects = ["ecg"]
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
-12誘導心電図解析は入力アンプから解析ソフトウェアまで対応できます。IEC 60601-2-25:2011 の基準委適合した心電図解析を実現しています。
+12誘導心電図解析は入力アンプから解析ソフトウェアまで対応できます。IEC 60601-2-25:2011 の基準に適合した心電図解析を実現しています。
 
 不整脈解析は1ch ECG から各種不整脈を検出するアルゴリズムを開発しています。
