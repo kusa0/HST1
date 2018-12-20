@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on HST</title>
-    <link>https://hst.netlify.com/post/</link>
+    <link>https://kusa0.github.io/HST1/post/</link>
     <description>Recent content in Posts on HST</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0900</lastBuildDate>
     
-	<atom:link href="https://hst.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kusa0.github.io/HST1/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SpO2測定</title>
-      <link>https://hst.netlify.com/post/spo2/</link>
+      <link>https://kusa0.github.io/HST1/post/spo2/</link>
       <pubDate>Tue, 18 Dec 2018 16:31:51 +0900</pubDate>
       
-      <guid>https://hst.netlify.com/post/spo2/</guid>
+      <guid>https://kusa0.github.io/HST1/post/spo2/</guid>
       <description>SpO2測定はセンサーおよびアンプ、計測アルゴリズムまでトータル設計が可能です。 センサーはリユーザブルは勿論、ディスポーザブルタイプも開発し</description>
     </item>
     
     <item>
       <title>非観血血圧測定</title>
-      <link>https://hst.netlify.com/post/nibp/</link>
+      <link>https://kusa0.github.io/HST1/post/nibp/</link>
       <pubDate>Tue, 18 Dec 2018 16:31:33 +0900</pubDate>
       
-      <guid>https://hst.netlify.com/post/nibp/</guid>
+      <guid>https://kusa0.github.io/HST1/post/nibp/</guid>
       <description>非観血血圧測定は臨床評価機関でのISO 80601-2-30:2013 の基準に適合した実績を有しています。 オシロメトリック法の以下の測定方式に対応可能です。 -Linea up -Linea down -Step up -Step</description>
     </item>
     
     <item>
       <title>心電図・不整脈解析</title>
-      <link>https://hst.netlify.com/post/ecg/</link>
+      <link>https://kusa0.github.io/HST1/post/ecg/</link>
       <pubDate>Tue, 18 Dec 2018 16:29:38 +0900</pubDate>
       
-      <guid>https://hst.netlify.com/post/ecg/</guid>
+      <guid>https://kusa0.github.io/HST1/post/ecg/</guid>
       <description>12誘導心電図解析は入力アンプから解析ソフトウェアまで対応できます。IEC 60601-2-25:2011 の基準に適合した心電図解析を実現しています。 不整脈解析は1ch ECG</description>
     </item>
     
