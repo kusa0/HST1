@@ -6,7 +6,8 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/HST1"
+baseurl = "https://kusa0.github.io/"
+canonifyurls = true
 
 publishDir = "docs"
 
