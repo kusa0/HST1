@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on HST</title>
-    <link>https://kusa0.github.io/home/</link>
+    <link>https://kusa0.github.io/HST1/home/</link>
     <description>Recent content in Homes on HST</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0900</lastBuildDate>
     
-	<atom:link href="https://kusa0.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kusa0.github.io/HST1/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Health Science Technologies</title>
-      <link>https://kusa0.github.io/home/hero/</link>
+      <link>https://kusa0.github.io/HST1/home/hero/</link>
       <pubDate>Mon, 10 Dec 2018 00:00:00 +0900</pubDate>
       
-      <guid>https://kusa0.github.io/home/hero/</guid>
+      <guid>https://kusa0.github.io/HST1/home/hero/</guid>
       <description>私たちは最新の医用電子技術で人々の健康に奉仕します &amp;copy; 2018 HST Inc.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://kusa0.github.io/home/about/</link>
+      <link>https://kusa0.github.io/HST1/home/about/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0900</pubDate>
       
-      <guid>https://kusa0.github.io/home/about/</guid>
+      <guid>https://kusa0.github.io/HST1/home/about/</guid>
       <description>Biography Health Science Technologies (HST)は2006年9月に代表取締役社長である大野浩平によって設立されました。保有している生体情報計測に関する各種技術の他に、国内</description>
     </item>
     
     <item>
       <title>企画立案</title>
-      <link>https://kusa0.github.io/home/publications/</link>
+      <link>https://kusa0.github.io/HST1/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://kusa0.github.io/home/publications/</guid>
+      <guid>https://kusa0.github.io/HST1/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>技術開発</title>
-      <link>https://kusa0.github.io/home/posts/</link>
+      <link>https://kusa0.github.io/HST1/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://kusa0.github.io/home/posts/</guid>
+      <guid>https://kusa0.github.io/HST1/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>製品開発</title>
-      <link>https://kusa0.github.io/home/projects/</link>
+      <link>https://kusa0.github.io/HST1/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://kusa0.github.io/home/projects/</guid>
+      <guid>https://kusa0.github.io/HST1/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>代表者経歴</title>
-      <link>https://kusa0.github.io/home/experience/</link>
+      <link>https://kusa0.github.io/HST1/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://kusa0.github.io/home/experience/</guid>
+      <guid>https://kusa0.github.io/HST1/home/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>連絡先</title>
-      <link>https://kusa0.github.io/home/contact/</link>
+      <link>https://kusa0.github.io/HST1/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://kusa0.github.io/home/contact/</guid>
+      <guid>https://kusa0.github.io/HST1/home/contact/</guid>
       <description></description>
     </item>
     
