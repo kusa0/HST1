@@ -28,7 +28,7 @@ projects = ["pulse-oximeter"]
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = ""
 +++
 
 SpO2測定はセンサーおよびアンプ、計測アルゴリズムまでトータル設計が可能です。

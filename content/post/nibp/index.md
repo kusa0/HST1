@@ -27,7 +27,7 @@ projects = ["nibp"]
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
+  focal_point = ""
 +++
 非観血血圧測定は臨床評価機関でのISO 80601-2-30:2013 の基準に適合した実績を有しています。
 オシロメトリック法の以下の測定方式に対応可能です。

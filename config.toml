@@ -7,8 +7,9 @@
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://kusa0.github.io/HST1/"
+uglyurls = false
 canonifyurls = true
-relativeurl = false
+relativeurl = true
 
 publishDir = "docs"
 
@@ -20,7 +21,7 @@ title = "HST"
 copyright = "&copy; 2018"
 
 theme = "academic"
-enableEmoji = false
+enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = false
@@ -134,10 +135,10 @@ enableGitInfo = false
   time_format = "3:04 PM"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
-  comment_count = true
+  comment_count = false
 
   # Display next/previous section pager?
   section_pager = false
