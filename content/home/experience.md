@@ -26,7 +26,6 @@ date_format = "January 2006"
   date_start = "2006-09-01"
   date_end = ""
   description = """
-  *
   * 事業企画立案
   * 技術開発
   * 製品開発
