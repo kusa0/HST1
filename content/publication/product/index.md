@@ -1,6 +1,6 @@
 +++
 title = "医療電子機器"
-date = 2018-12-18T11:30:08+09:00
+date = 2006-09-01T11:30:08+09:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

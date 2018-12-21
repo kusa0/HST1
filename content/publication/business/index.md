@@ -1,6 +1,6 @@
 +++
 title = "事業戦略"
-date = 2018-12-18T11:19:24+09:00
+date = 2006-09-01T11:19:24+09:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

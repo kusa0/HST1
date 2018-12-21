@@ -1,10 +1,10 @@
 +++
 title = "心電計"
-date = 2018-12-17T16:58:48+09:00
+date = 2018-09-01T16:58:48+09:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["HST inc."]
+# authors = ["HST inc."]
 
 # Publication type.
 # Legend:

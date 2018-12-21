@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 17 Dec 2018 16:58:48 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 01 Sep 2018 16:58:48 +0900</lastBuildDate>
     
 	<atom:link href="https://kusa0.github.io/HST1/tags/global/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>心電計</title>
       <link>https://kusa0.github.io/HST1/project/ecg/</link>
-      <pubDate>Mon, 17 Dec 2018 16:58:48 +0900</pubDate>
+      <pubDate>Sat, 01 Sep 2018 16:58:48 +0900</pubDate>
       
       <guid>https://kusa0.github.io/HST1/project/ecg/</guid>
       <description>心電図は医用電子機器としては最もポピュラーな装置の一つです。多くのメーカー製品が使用されていますが、どれも記録器を内蔵した大型の装置です。私</description>
