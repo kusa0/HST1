@@ -6,12 +6,12 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://kusa0.github.io/HST1/"
 uglyurls = false
 canonifyurls = false
 relativeurl = true
 languageCode = "jp"
-publishDir = "public"
+publishDir = "docs"
 
 # Title of your site
 title = "HST"
