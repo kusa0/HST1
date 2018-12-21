@@ -2,7 +2,7 @@
 # Hero widget.
 widget = "hero"
 active = true
-date = 2018-12-10T00:00:00
+# date = 2018-12-10T00:00:00
 
 title = "Health Science Technologies"
 
@@ -13,8 +13,8 @@ weight = 5
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
   overlay_color = "#666"  # An HTML color value.
-  overlay_img = "hst_logo_back.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  overlay_img = "hst_logo_back2.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
 #   Activate the button by specifying a URL and button label below.

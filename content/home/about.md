@@ -2,10 +2,10 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2018-09-01T00:00:00
+# date = 2018-09-01T00:00:00
 
 # Order that this section will appear in.
-weight = 5
+weight = 6
 
 # List your academic interests.
 [interests]
