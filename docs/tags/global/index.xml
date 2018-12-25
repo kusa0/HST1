@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Global on HST</title>
-    <link>https://kusa0.github.io/HST1/tags/global/</link>
+    <link>/tags/global/</link>
     <description>Recent content in Global on HST</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 01 Sep 2018 16:58:48 +0900</lastBuildDate>
     
-	<atom:link href="https://kusa0.github.io/HST1/tags/global/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/global/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>心電計</title>
-      <link>https://kusa0.github.io/HST1/project/ecg/</link>
+      <link>/project/ecg/</link>
       <pubDate>Sat, 01 Sep 2018 16:58:48 +0900</pubDate>
       
-      <guid>https://kusa0.github.io/HST1/project/ecg/</guid>
+      <guid>/project/ecg/</guid>
       <description>心電図は医用電子機器としては最もポピュラーな装置の一つです。多くのメーカー製品が使用されていますが、どれも記録器を内蔵した大型の装置です。私</description>
     </item>
     

@@ -4,7 +4,7 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/tutorial/example/</loc>
+      <loc>/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00+09:00</lastmod>
     </url>
     
@@ -12,7 +12,7 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/tutorial/</loc>
+      <loc>/tutorial/</loc>
       <lastmod>2018-09-09T00:00:00+09:00</lastmod>
     </url>
     
@@ -20,7 +20,7 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/project/nibp/</loc>
+      <loc>/project/nibp/</loc>
       <lastmod>2018-09-01T16:59:21+09:00</lastmod>
     </url>
     
@@ -28,7 +28,7 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/project/ecg/</loc>
+      <loc>/project/ecg/</loc>
       <lastmod>2018-09-01T16:58:48+09:00</lastmod>
     </url>
     
@@ -36,7 +36,7 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/post/spo2/</loc>
+      <loc>/post/spo2/</loc>
       <lastmod>2018-09-01T16:31:51+09:00</lastmod>
     </url>
     
@@ -44,7 +44,7 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/post/nibp/</loc>
+      <loc>/post/nibp/</loc>
       <lastmod>2018-09-01T16:31:33+09:00</lastmod>
     </url>
     
@@ -52,7 +52,7 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/post/ecg/</loc>
+      <loc>/post/ecg/</loc>
       <lastmod>2018-09-01T16:29:38+09:00</lastmod>
     </url>
     
@@ -60,7 +60,7 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/project/pulse-oximeter/</loc>
+      <loc>/project/pulse-oximeter/</loc>
       <lastmod>2018-09-01T11:01:01+09:00</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/talk/example/</loc>
+      <loc>/talk/example/</loc>
       <lastmod>2017-01-01T00:00:00+09:00</lastmod>
     </url>
     
@@ -76,7 +76,7 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/post/</loc>
+      <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00+09:00</lastmod>
     </url>
     
@@ -84,7 +84,7 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/publication/</loc>
+      <loc>/publication/</loc>
       <lastmod>2017-01-01T00:00:00+09:00</lastmod>
     </url>
     
@@ -92,7 +92,7 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/talk/</loc>
+      <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00+09:00</lastmod>
     </url>
     
@@ -100,7 +100,7 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/publication/product/</loc>
+      <loc>/publication/product/</loc>
       <lastmod>2006-09-01T11:30:08+09:00</lastmod>
     </url>
     
@@ -108,7 +108,7 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/publication/business/</loc>
+      <loc>/publication/business/</loc>
       <lastmod>2006-09-01T11:19:24+09:00</lastmod>
     </url>
     
@@ -116,7 +116,7 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/publication_types/0/</loc>
+      <loc>/publication_types/0/</loc>
       <lastmod>2018-09-01T16:59:21+09:00</lastmod>
       <priority>0</priority>
     </url>
@@ -125,7 +125,7 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/categories/</loc>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -133,7 +133,7 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/tags/domestic/</loc>
+      <loc>/tags/domestic/</loc>
       <lastmod>2018-09-01T16:59:21+09:00</lastmod>
       <priority>0</priority>
     </url>
@@ -142,7 +142,7 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/tags/global/</loc>
+      <loc>/tags/global/</loc>
       <lastmod>2018-09-01T16:58:48+09:00</lastmod>
       <priority>0</priority>
     </url>
@@ -151,7 +151,7 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/</loc>
+      <loc>/</loc>
       <lastmod>2006-09-01T00:00:00+09:00</lastmod>
       <priority>0</priority>
     </url>
@@ -160,7 +160,7 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/project/</loc>
+      <loc>/project/</loc>
       <lastmod>2018-09-01T16:59:21+09:00</lastmod>
       <priority>0</priority>
     </url>
@@ -169,7 +169,7 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/publication_types/</loc>
+      <loc>/publication_types/</loc>
       <lastmod>2018-09-01T16:59:21+09:00</lastmod>
       <priority>0</priority>
     </url>
@@ -178,7 +178,7 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/slides/</loc>
+      <loc>/slides/</loc>
       <priority>0</priority>
     </url>
     
@@ -186,14 +186,14 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/slides/example-slides/</loc>
+      <loc>/slides/example-slides/</loc>
     </url>
     
   
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/tags/</loc>
+      <loc>/tags/</loc>
       <lastmod>2018-09-01T16:59:21+09:00</lastmod>
       <priority>0</priority>
     </url>
