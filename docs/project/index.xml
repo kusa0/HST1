@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on HST</title>
-    <link>/project/</link>
+    <link>https://kusa0.github.io/HST1/project/</link>
     <description>Recent content in Projects on HST</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 01 Sep 2018 16:59:21 +0900</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kusa0.github.io/HST1/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>血圧計</title>
-      <link>/project/nibp/</link>
+      <link>https://kusa0.github.io/HST1/project/nibp/</link>
       <pubDate>Sat, 01 Sep 2018 16:59:21 +0900</pubDate>
       
-      <guid>/project/nibp/</guid>
+      <guid>https://kusa0.github.io/HST1/project/nibp/</guid>
       <description>血圧計もSpO2以上に一般家庭に広く普及しています。腕に巻くカフの圧力変化を捉えて最高血圧や最低血圧を求めるオシロメトリック法の血圧計が殆ど</description>
     </item>
     
     <item>
       <title>心電計</title>
-      <link>/project/ecg/</link>
+      <link>https://kusa0.github.io/HST1/project/ecg/</link>
       <pubDate>Sat, 01 Sep 2018 16:58:48 +0900</pubDate>
       
-      <guid>/project/ecg/</guid>
+      <guid>https://kusa0.github.io/HST1/project/ecg/</guid>
       <description>心電図は医用電子機器としては最もポピュラーな装置の一つです。多くのメーカー製品が使用されていますが、どれも記録器を内蔵した大型の装置です。私</description>
     </item>
     
     <item>
       <title>Pulse Oximeter</title>
-      <link>/project/pulse-oximeter/</link>
+      <link>https://kusa0.github.io/HST1/project/pulse-oximeter/</link>
       <pubDate>Sat, 01 Sep 2018 11:01:01 +0900</pubDate>
       
-      <guid>/project/pulse-oximeter/</guid>
+      <guid>https://kusa0.github.io/HST1/project/pulse-oximeter/</guid>
       <description>パルスオキシメーターは医療機関のみならず登山愛好者やスポーツ愛好者などにも広く普及しています。HSTはこうした一般人向けはもとより高度なケア</description>
     </item>
     

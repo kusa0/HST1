@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HST on HST</title>
-    <link>/</link>
+    <link>https://kusa0.github.io/HST1/</link>
     <description>Recent content in HST on HST</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Fri, 01 Sep 2006 00:00:00 +0900</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <atom:link href="/HST1/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Example Page</title>
-      <link>/tutorial/example/</link>
+      <link>https://kusa0.github.io/HST1/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0900</pubDate>
       
-      <guid>/tutorial/example/</guid>
+      <guid>https://kusa0.github.io/HST1/tutorial/example/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -32,10 +32,10 @@
     
     <item>
       <title>血圧計</title>
-      <link>/project/nibp/</link>
+      <link>https://kusa0.github.io/HST1/project/nibp/</link>
       <pubDate>Sat, 01 Sep 2018 16:59:21 +0900</pubDate>
       
-      <guid>/project/nibp/</guid>
+      <guid>https://kusa0.github.io/HST1/project/nibp/</guid>
       <description>&lt;p&gt;血圧計もSpO2以上に一般家庭に広く普及しています。腕に巻くカフの圧力変化を捉えて最高血圧や最低血圧を求めるオシロメトリック法の血圧計が殆どです。私たちは医療現場で使用する薬事法対応の血圧計の開発実績を持っています。&lt;/p&gt;
 
 &lt;p&gt;医療機器申請に際し血圧計はISOの規格で臨床評価を行う必要があります。これは老若男女の高血圧から低血圧までの被試験者を対象に、プロフェッショナルの聴診との比較で誤差が一定の範囲内であることが求められます。私たちの製作した血圧計はこの臨床評価をクリアしました。測定方法も一般的なステップダウン方式の他にリニアダウンやリニアアップについても対応可能です。どうぞお問い合わせください。&lt;/p&gt;
@@ -44,10 +44,10 @@
     
     <item>
       <title>心電計</title>
-      <link>/project/ecg/</link>
+      <link>https://kusa0.github.io/HST1/project/ecg/</link>
       <pubDate>Sat, 01 Sep 2018 16:58:48 +0900</pubDate>
       
-      <guid>/project/ecg/</guid>
+      <guid>https://kusa0.github.io/HST1/project/ecg/</guid>
       <description>&lt;p&gt;心電図は医用電子機器としては最もポピュラーな装置の一つです。多くのメーカー製品が使用されていますが、どれも記録器を内蔵した大型の装置です。私たちはもっと手軽で、往診時にも簡単に持ち運べるようスマートフォンサイズの心電図測定ユニットを開発しました。
 USBケーブルでWindow PCに接続して12誘導心電図を測定します。測定結果はPQ間隔やQRS幅などの計測値と一緒に表示され、Windows プリンターでプリントできます。CEマークや薬事も取得しております。&lt;/p&gt;
 </description>
@@ -55,10 +55,10 @@ USBケーブルでWindow PCに接続して12誘導心電図を測定します。
     
     <item>
       <title>SpO2測定</title>
-      <link>/post/spo2/</link>
+      <link>https://kusa0.github.io/HST1/post/spo2/</link>
       <pubDate>Sat, 01 Sep 2018 16:31:51 +0900</pubDate>
       
-      <guid>/post/spo2/</guid>
+      <guid>https://kusa0.github.io/HST1/post/spo2/</guid>
       <description>&lt;p&gt;SpO2測定はセンサーおよびアンプ、計測アルゴリズムまでトータル設計が可能です。&lt;/p&gt;
 
 &lt;p&gt;センサーはリユーザブルは勿論、ディスポーザブルタイプも開発しています。
@@ -68,10 +68,10 @@ USBケーブルでWindow PCに接続して12誘導心電図を測定します。
     
     <item>
       <title>非観血血圧測定</title>
-      <link>/post/nibp/</link>
+      <link>https://kusa0.github.io/HST1/post/nibp/</link>
       <pubDate>Sat, 01 Sep 2018 16:31:33 +0900</pubDate>
       
-      <guid>/post/nibp/</guid>
+      <guid>https://kusa0.github.io/HST1/post/nibp/</guid>
       <description>&lt;p&gt;非観血血圧測定は臨床評価機関でのISO 80601-2-30:2013 の基準に適合した実績を有しています。
 オシロメトリック法の以下の測定方式に対応可能です。&lt;/p&gt;
 
@@ -84,10 +84,10 @@ USBケーブルでWindow PCに接続して12誘導心電図を測定します。
     
     <item>
       <title>心電図・不整脈解析</title>
-      <link>/post/ecg/</link>
+      <link>https://kusa0.github.io/HST1/post/ecg/</link>
       <pubDate>Sat, 01 Sep 2018 16:29:38 +0900</pubDate>
       
-      <guid>/post/ecg/</guid>
+      <guid>https://kusa0.github.io/HST1/post/ecg/</guid>
       <description>&lt;p&gt;12誘導心電図解析は入力アンプから解析ソフトウェアまで対応できます。IEC 60601-2-25:2011 の基準に適合した心電図解析を実現しています。&lt;/p&gt;
 
 &lt;p&gt;不整脈解析は1ch ECG から各種不整脈を検出するアルゴリズムを開発しています。&lt;/p&gt;
@@ -96,10 +96,10 @@ USBケーブルでWindow PCに接続して12誘導心電図を測定します。
     
     <item>
       <title>Pulse Oximeter</title>
-      <link>/project/pulse-oximeter/</link>
+      <link>https://kusa0.github.io/HST1/project/pulse-oximeter/</link>
       <pubDate>Sat, 01 Sep 2018 11:01:01 +0900</pubDate>
       
-      <guid>/project/pulse-oximeter/</guid>
+      <guid>https://kusa0.github.io/HST1/project/pulse-oximeter/</guid>
       <description>&lt;p&gt;パルスオキシメーターは医療機関のみならず登山愛好者やスポーツ愛好者などにも広く普及しています。HSTはこうした一般人向けはもとより高度なケアを必要とする医療機関向けのパルスオキシメータの開発実績があります。&lt;/p&gt;
 
 &lt;p&gt;医療機関向け機器として承認を受けるにはISO規格に則り臨床評価が必要となります。様々な人種や肌色の違う人間を対象に低酸素状態から正常状態まで測定したSpO2と動脈血ガス検査との相関を取る必要があります。HSTは海外の評価機関にてISO規格に適合と評価された製品を開発しました。&lt;/p&gt;
@@ -108,10 +108,10 @@ USBケーブルでWindow PCに接続して12誘導心電図を測定します。
     
     <item>
       <title>Example Talk</title>
-      <link>/talk/example/</link>
+      <link>https://kusa0.github.io/HST1/talk/example/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
       
-      <guid>/talk/example/</guid>
+      <guid>https://kusa0.github.io/HST1/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
 
@@ -132,28 +132,28 @@ USBケーブルでWindow PCに接続して12誘導心電図を測定します。
     
     <item>
       <title>医療電子機器</title>
-      <link>/publication/product/</link>
+      <link>https://kusa0.github.io/HST1/publication/product/</link>
       <pubDate>Fri, 01 Sep 2006 11:30:08 +0900</pubDate>
       
-      <guid>/publication/product/</guid>
+      <guid>https://kusa0.github.io/HST1/publication/product/</guid>
       <description></description>
     </item>
     
     <item>
       <title>事業戦略</title>
-      <link>/publication/business/</link>
+      <link>https://kusa0.github.io/HST1/publication/business/</link>
       <pubDate>Fri, 01 Sep 2006 11:19:24 +0900</pubDate>
       
-      <guid>/publication/business/</guid>
+      <guid>https://kusa0.github.io/HST1/publication/business/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>/slides/example-slides/</link>
+      <link>https://kusa0.github.io/HST1/slides/example-slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/slides/example-slides/</guid>
+      <guid>https://kusa0.github.io/HST1/slides/example-slides/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
