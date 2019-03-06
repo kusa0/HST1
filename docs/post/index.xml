@@ -13,12 +13,39 @@
     
     
     <item>
+      <title>生体計測アルゴリズム</title>
+      <link>https://kusa0.github.io/HST1/post/about/</link>
+      <pubDate>Wed, 06 Mar 2019 16:20:14 +0900</pubDate>
+      
+      <guid>https://kusa0.github.io/HST1/post/about/</guid>
+      <description>- 生体計測アルゴリズム SpO2 NIBP（Linear up/down, Step up/down） 心電図解析、不整脈解析 呼吸 これら生体情報の信号処理、解析は生体計測の基本で</description>
+    </item>
+    
+    <item>
+      <title>技術トピック１　ノイズレス電極</title>
+      <link>https://kusa0.github.io/HST1/post/noiseless/</link>
+      <pubDate>Wed, 06 Mar 2019 16:15:53 +0900</pubDate>
+      
+      <guid>https://kusa0.github.io/HST1/post/noiseless/</guid>
+      <description>ノイズレス電極 汎用電極 ノイズレス電極 汎用電極による歩行時の心電図は、静電気の影響で大きく揺れています。特に乾燥した冬季では顕著に現れ、モニタ</description>
+    </item>
+    
+    <item>
+      <title>技術トピックス２　心電図シミュレーション</title>
+      <link>https://kusa0.github.io/HST1/post/simulation/</link>
+      <pubDate>Wed, 06 Mar 2019 15:53:20 +0900</pubDate>
+      
+      <guid>https://kusa0.github.io/HST1/post/simulation/</guid>
+      <description>心電図シミュレーション 体表面心電図（単極誘導）をコンピューターシミュレーションで導出したものです。電極位置と得られる心電図を知る事ができます</description>
+    </item>
+    
+    <item>
       <title>SpO2測定</title>
       <link>https://kusa0.github.io/HST1/post/spo2/</link>
       <pubDate>Sat, 01 Sep 2018 16:31:51 +0900</pubDate>
       
       <guid>https://kusa0.github.io/HST1/post/spo2/</guid>
-      <description>SpO2測定はセンサーおよびアンプ、計測アルゴリズムまでトータル設計が可能です。 センサーはリユーザブルは勿論、ディスポーザブルタイプも開発し</description>
+      <description>動脈血酸素飽和度(SpO2）計測は指に光を当て非観血的に動脈血の色を測定し酸素の割合を算出する技術です。 動脈血はSpO2が高い(97%)と紅</description>
     </item>
     
     <item>
@@ -27,7 +54,7 @@
       <pubDate>Sat, 01 Sep 2018 16:31:33 +0900</pubDate>
       
       <guid>https://kusa0.github.io/HST1/post/nibp/</guid>
-      <description>非観血血圧測定は臨床評価機関でのISO 80601-2-30:2013 の基準に適合した実績を有しています。 オシロメトリック法の以下の測定方式に対応可能です。 -Linea up -Linea down -Step up -Step</description>
+      <description>非観血血圧測定は臨床評価機関でのISO 80601-2-30:2013 の基準に適合した実績を有しています。 非観血血圧測定の各種方式 【リニアダウン方式】 ポンプでカフ圧を最高</description>
     </item>
     
     <item>

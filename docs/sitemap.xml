@@ -4,16 +4,24 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/tutorial/example/</loc>
-      <lastmod>2018-09-09T00:00:00+09:00</lastmod>
+      <loc>https://kusa0.github.io/HST1/post/about/</loc>
+      <lastmod>2019-03-06T16:20:14+09:00</lastmod>
     </url>
     
   
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/tutorial/</loc>
-      <lastmod>2018-09-09T00:00:00+09:00</lastmod>
+      <loc>https://kusa0.github.io/HST1/post/noiseless/</loc>
+      <lastmod>2019-03-06T16:15:53+09:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://kusa0.github.io/HST1/post/simulation/</loc>
+      <lastmod>2019-03-06T15:53:20+09:00</lastmod>
     </url>
     
   
@@ -68,14 +76,6 @@
     
     <url>
     
-      <loc>https://kusa0.github.io/HST1/talk/example/</loc>
-      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://kusa0.github.io/HST1/post/</loc>
       <lastmod>2017-01-01T00:00:00+09:00</lastmod>
     </url>
@@ -85,14 +85,6 @@
     <url>
     
       <loc>https://kusa0.github.io/HST1/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+09:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://kusa0.github.io/HST1/talk/</loc>
       <lastmod>2017-01-01T00:00:00+09:00</lastmod>
     </url>
     
@@ -172,21 +164,6 @@
       <loc>https://kusa0.github.io/HST1/publication_types/</loc>
       <lastmod>2018-09-01T16:59:21+09:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://kusa0.github.io/HST1/slides/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://kusa0.github.io/HST1/slides/example-slides/</loc>
     </url>
     
   

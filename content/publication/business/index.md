@@ -22,7 +22,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "ME専業メーカーの事業戦略企画の長期に亘たる業務経験を有しております。これから医療業界進出や医療機器の世界市場展開などを考えておられるお客様に、企業運営経験者と実際に事業を展開してきた営業経験者がご相談にお答えし、事業戦略の立案にご協力致します。戦略立案だけでなく事業展開への協力依頼も歓迎いたします。どうぞお問い合わせください。"
+abstract = "ME専業メーカーの事業戦略企画の長期に亘たる業務経験を有しております。"
 abstract_short = "ME専業メーカーの事業戦略企画の長期に亘たる業務経験を有しております。"
 
 # Is this a selected publication? (true/false)
@@ -61,7 +61,6 @@ tags = []
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
@@ -76,3 +75,12 @@ doi = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
+# 事業戦略立案
+
+## 事業戦略    
+他には無いアイデアで持って新たな新規市場開拓か、あるいは新たなアイ
+デア、ノウハウ技術による、ちょっとした面白さ、特徴を持って大きな既存市場に向かうのか、、、海外対応はどのようにするのか、、、そのための必要な要素は何か、、、などについて、これまでの弊社での経験を元に考えて行ければと思います。
+
+## 海外との交流    
+開発においては、海外企業との協力も重要になります。HSTは、この間、特に、技術を有し、気概を持った台湾系企業、インド系企業との連携も図ってきています。英語での業務も可能です。
+

@@ -11,22 +11,63 @@
     <atom:link href="/HST1/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Example Page</title>
-      <link>https://kusa0.github.io/HST1/tutorial/example/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0900</pubDate>
+      <title>生体計測アルゴリズム</title>
+      <link>https://kusa0.github.io/HST1/post/about/</link>
+      <pubDate>Wed, 06 Mar 2019 16:20:14 +0900</pubDate>
       
-      <guid>https://kusa0.github.io/HST1/tutorial/example/</guid>
+      <guid>https://kusa0.github.io/HST1/post/about/</guid>
       <description>
 
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;生体計測アルゴリズム&#34;&gt;- 生体計測アルゴリズム&lt;/h2&gt;
 
-&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;SpO2&lt;/li&gt;
+&lt;li&gt;NIBP（Linear up/down, Step up/down）&lt;/li&gt;
+&lt;li&gt;心電図解析、不整脈解析&lt;/li&gt;
 
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;呼吸&lt;/p&gt;
 
-&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;これら生体情報の信号処理、解析は生体計測の基本であり、最も経験とノウハウを必要とする部分です。HSTは、この間の経験とその蓄積を元に、これらへの対応が出来る事を最大の特徴としております。&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;電気設計-システム設計-回路設計&#34;&gt;- 電気設計（システム設計、回路設計）&lt;/h2&gt;
+
+&lt;h2 id=&#34;ソフトウェア設計&#34;&gt;- ソフトウェア設計&lt;/h2&gt;
+
+&lt;h2 id=&#34;センサー-心電図電極-開発&#34;&gt;- センサー、心電図電極　開発&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>技術トピック１　ノイズレス電極</title>
+      <link>https://kusa0.github.io/HST1/post/noiseless/</link>
+      <pubDate>Wed, 06 Mar 2019 16:15:53 +0900</pubDate>
+      
+      <guid>https://kusa0.github.io/HST1/post/noiseless/</guid>
+      <description>&lt;p&gt;ノイズレス電極
+&lt;img src=&#34;standard.png&#34; alt=&#34;standard&#34; /&gt;
+汎用電極
+&lt;img src=&#34;noiseless.png&#34; alt=&#34;Noiseless&#34; /&gt;
+ノイズレス電極&lt;/p&gt;
+
+&lt;p&gt;汎用電極による歩行時の心電図は、静電気の影響で大きく揺れています。特に乾燥した冬季では顕著に現れ、モニター時のフォルスアラーム（誤アラーム）の原因となります。ノイズレス電極では体動に拠る影響は若干あるものの、静電気の影響は除去されており、フォルスアラームの低減に大きな効果を発揮します。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>技術トピックス２　心電図シミュレーション</title>
+      <link>https://kusa0.github.io/HST1/post/simulation/</link>
+      <pubDate>Wed, 06 Mar 2019 15:53:20 +0900</pubDate>
+      
+      <guid>https://kusa0.github.io/HST1/post/simulation/</guid>
+      <description>
+
+&lt;h2 id=&#34;心電図シミュレーション&#34;&gt;心電図シミュレーション&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;simulation.png&#34; alt=&#34;ECG simulation&#34; /&gt;
+&lt;img src=&#34;position.png&#34; alt=&#34;Position&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;体表面心電図（単極誘導）をコンピューターシミュレーションで導出したものです。電極位置と得られる心電図を知る事ができます。&lt;/p&gt;
 </description>
     </item>
     
@@ -59,9 +100,15 @@ USBケーブルでWindow PCに接続して12誘導心電図を測定します。
       <pubDate>Sat, 01 Sep 2018 16:31:51 +0900</pubDate>
       
       <guid>https://kusa0.github.io/HST1/post/spo2/</guid>
-      <description>&lt;p&gt;SpO2測定はセンサーおよびアンプ、計測アルゴリズムまでトータル設計が可能です。&lt;/p&gt;
+      <description>&lt;p&gt;動脈血酸素飽和度(SpO2）計測は指に光を当て非観血的に動脈血の色を測定し酸素の割合を算出する技術です。&lt;/p&gt;
 
-&lt;p&gt;センサーはリユーザブルは勿論、ディスポーザブルタイプも開発しています。
+&lt;p&gt;&lt;img src=&#34;spo2.png&#34; alt=&#34;SpO2&#34; /&gt;
+動脈血はSpO2が高い(97%)と紅く、低い(75%)と黒ずんできます。
+&lt;img src=&#34;finger.png&#34; alt=&#34;Finger&#34; /&gt;
+指の動脈を通過したLEDの光でSpO2を測定します。&lt;/p&gt;
+
+&lt;p&gt;SpO2測定はセンサーおよびアンプ、計測アルゴリズムまでトータル設計が可能です。&lt;br /&gt;
+センサーはリユーザブルは勿論、ディスポーザブルタイプも開発しています。&lt;br /&gt;
 精度については臨床評価機関でのIEC 60601-2-61:2011 の基準に適合した実績を持っています。&lt;/p&gt;
 </description>
     </item>
@@ -72,13 +119,23 @@ USBケーブルでWindow PCに接続して12誘導心電図を測定します。
       <pubDate>Sat, 01 Sep 2018 16:31:33 +0900</pubDate>
       
       <guid>https://kusa0.github.io/HST1/post/nibp/</guid>
-      <description>&lt;p&gt;非観血血圧測定は臨床評価機関でのISO 80601-2-30:2013 の基準に適合した実績を有しています。
-オシロメトリック法の以下の測定方式に対応可能です。&lt;/p&gt;
+      <description>
 
-&lt;p&gt;-Linea up&lt;br /&gt;
--Linea down&lt;br /&gt;
--Step up&lt;br /&gt;
--Step down&lt;/p&gt;
+&lt;p&gt;非観血血圧測定は臨床評価機関でのISO 80601-2-30:2013 の基準に適合した実績を有しています。&lt;/p&gt;
+
+&lt;h1 id=&#34;非観血血圧測定の各種方式&#34;&gt;非観血血圧測定の各種方式&lt;/h1&gt;
+
+&lt;h2 id=&#34;リニアダウン方式&#34;&gt;【リニアダウン方式】&lt;/h2&gt;
+
+&lt;p&gt;ポンプでカフ圧を最高血圧より高い血圧まで素早く上昇させ、その後、バルブを開いてカフ圧を徐々に減圧しながら脈波の計測を行い最高・平均・最低の血圧値を得る。&lt;/p&gt;
+
+&lt;h2 id=&#34;リニアアップ方式&#34;&gt;【リニアアップ方式】&lt;/h2&gt;
+
+&lt;p&gt;ポンプで徐々に加圧し、昇圧時に同時に脈波の計測を行い最高・平均・最低の血圧値を得る。最高血圧が検出された時点が測定終了となるため、余分な加圧は必要なく、かつ計測時間も短縮され、患者負担の軽減となる。ポンプに拠る昇圧時のノイズを抑える事がポイント。最近、普及しつつある方式である。&lt;/p&gt;
+
+&lt;h2 id=&#34;ステップダウン方式&#34;&gt;【ステップダウン方式】&lt;/h2&gt;
+
+&lt;p&gt;ポンプでカフ圧を最高血圧より高い血圧まで素早く上昇させ、その後、ステップ状の減圧を行う。その間、各ステップ圧について、同じ形状を有する２拍の脈波を検出し、そのカフ圧における脈波振幅とすし、得られた脈波とカフ圧から血圧値を得る。計測中、期外収縮等が発生した際でも測定が可能である事を特徴とする。&lt;/p&gt;
 </description>
     </item>
     
@@ -91,6 +148,10 @@ USBケーブルでWindow PCに接続して12誘導心電図を測定します。
       <description>&lt;p&gt;12誘導心電図解析は入力アンプから解析ソフトウェアまで対応できます。IEC 60601-2-25:2011 の基準に適合した心電図解析を実現しています。&lt;/p&gt;
 
 &lt;p&gt;不整脈解析は1ch ECG から各種不整脈を検出するアルゴリズムを開発しています。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;ECG1.png&#34; alt=&#34;LCD ECG&#34; title=&#34;LCD and Printing&#34; /&gt;
+アンチエリアシングによりLCD上にスムースな波形描画を行います。
+また、市販のインクジェットプリンタによりA4紙に美しい描画を行います。&lt;/p&gt;
 </description>
     </item>
     
@@ -107,36 +168,31 @@ USBケーブルでWindow PCに接続して12誘導心電図を測定します。
     </item>
     
     <item>
-      <title>Example Talk</title>
-      <link>https://kusa0.github.io/HST1/talk/example/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
-      
-      <guid>https://kusa0.github.io/HST1/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
-
-&lt;/div&gt;
-
-
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;em&gt;Slides&lt;/em&gt; feature and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>医療電子機器</title>
       <link>https://kusa0.github.io/HST1/publication/product/</link>
       <pubDate>Fri, 01 Sep 2006 11:30:08 +0900</pubDate>
       
       <guid>https://kusa0.github.io/HST1/publication/product/</guid>
-      <description></description>
+      <description>
+
+&lt;h1 id=&#34;医用電子機器-企画-立案&#34;&gt;医用電子機器 企画・立案&lt;/h1&gt;
+
+&lt;h2 id=&#34;アイデア&#34;&gt;アイデア&lt;/h2&gt;
+
+&lt;p&gt;小さなアイデア、少しの気配り、拘りが、事業全体に計り知れない大きな影響を及ぼす事が多々あります。これまでの経験を生かしながら、また、医療現場とも連携しながら追いかけています。&lt;/p&gt;
+
+&lt;h2 id=&#34;idデザイン&#34;&gt;IDデザイン&lt;/h2&gt;
+
+&lt;p&gt;デザインは、製品を印象付ける上で、また、快適に使用する上で非常に重要な要素となります。デザイナーとともに、ここに拘った開発を行います。&lt;/p&gt;
+
+&lt;h2 id=&#34;ユーザーインターフェイス-画面デザイン&#34;&gt;ユーザーインターフェイス、画面デザイン&lt;/h2&gt;
+
+&lt;p&gt;何でもできた方が良いとの事で機能を詰め込みすぎ、結果、非常に使い難いものになっているなどのケースが見られます。医療現場を理解した、シンプルで分かり易い操作、快適な操作を追及します。&lt;/p&gt;
+
+&lt;h2 id=&#34;仕様-機能&#34;&gt;仕様、機能&lt;/h2&gt;
+
+&lt;h2 id=&#34;コスト&#34;&gt;コスト&lt;/h2&gt;
+</description>
     </item>
     
     <item>
@@ -145,189 +201,18 @@ USBケーブルでWindow PCに接続して12誘導心電図を測定します。
       <pubDate>Fri, 01 Sep 2006 11:19:24 +0900</pubDate>
       
       <guid>https://kusa0.github.io/HST1/publication/business/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Slides</title>
-      <link>https://kusa0.github.io/HST1/slides/example-slides/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kusa0.github.io/HST1/slides/example-slides/</guid>
       <description>
 
-&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
+&lt;h1 id=&#34;事業戦略立案&#34;&gt;事業戦略立案&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;事業戦略&#34;&gt;事業戦略&lt;/h2&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;他には無いアイデアで持って新たな新規市場開拓か、あるいは新たなアイ
+デア、ノウハウ技術による、ちょっとした面白さ、特徴を持って大きな既存市場に向かうのか、、、海外対応はどのようにするのか、、、そのための必要な要素は何か、、、などについて、これまでの弊社での経験を元に考えて行ければと思います。&lt;/p&gt;
 
-&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;h2 id=&#34;海外との交流&#34;&gt;海外との交流&lt;/h2&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
-&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
-&lt;li&gt;Supports speaker notes&lt;/li&gt;
-&lt;li&gt;Mobile friendly slides&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
-
-&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Code block:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
-if porridge == &amp;quot;blueberry&amp;quot;:
-    print(&amp;quot;Eating...&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
-
-&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
-
-&lt;p&gt;Block math:&lt;/p&gt;
-
-&lt;p&gt;$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
-
-&lt;p&gt;Make content appear incrementally&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-  One
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-  &lt;strong&gt;Two&lt;/strong&gt;
-&lt;/span&gt;
-&lt;span class=&#34;fragment &#34; &gt;
-  Three
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
-
-&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{% /speaker_note %}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
-
-&lt;aside class=&#34;notes&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/aside&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
-&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
-&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
-&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;ul&gt;
-&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
-&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
-&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
-&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-
-&lt;section data-noprocess data-shortcode-slide
-  
-      
-      data-background-image=&#34;/img/boards.jpg&#34;
-  &gt;
-
-
-&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
-
-&lt;p&gt;Customize the slide style and background&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
-{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
-{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
-
-&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
-
-&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;開発においては、海外企業との協力も重要になります。HSTは、この間、特に、技術を有し、気概を持った台湾系企業、インド系企業との連携も図ってきています。英語での業務も可能です。&lt;/p&gt;
 </description>
     </item>
     
