@@ -24,7 +24,6 @@ publication_short = ""
 # Abstract and optional shortened version.
 abstract = ""
 abstract_short = ""
-summary = "心電計は最も基本的な医療電子機器です。HSTは新しいタイプの心電計を開発しました。"
 
 # Is this a selected publication? (true/false)
 selected = false

@@ -24,7 +24,6 @@ publication_short = ""
 # Abstract and optional shortened version.
 abstract = ""
 abstract_short = ""
-summary = "スポーツ愛好家や登山家などに普及してきたパルスオキシメータの開発実績"
 
 # Is this a selected publication? (true/false)
 selected = false

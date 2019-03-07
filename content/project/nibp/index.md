@@ -24,7 +24,6 @@ publication_short = ""
 # Abstract and optional shortened version.
 abstract = ""
 abstract_short = ""
-summary = "一般家庭用に多くの血圧計が販売されています。HSTは医療機関向けに高い精度の非観血血圧計を開発しました。"
 
 # Is this a selected publication? (true/false)
 selected = false
