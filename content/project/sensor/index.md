@@ -46,5 +46,11 @@ url_poster = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
-心電図電極    
-SpO2センサー
+HSTは各種センサーの作成も承ります。    
+- 心電図電極    
+    - リユーザブル    
+    - ノイズレス電極    
+- SpO2センサー    
+    - リユーザブル    
+    - ディスポーザブル    
+
